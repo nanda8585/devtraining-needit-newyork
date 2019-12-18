@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Staging Table" max_length="40" name="x_58872_needit_staging_table" type="collection">
+        <element label="Company" max_length="40" name="company" type="string"/>
+        <element label="Employee ID" max_length="40" name="employee_id" type="integer"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
